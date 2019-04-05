@@ -1,0 +1,23 @@
+{
+  "name": "node-todo-api",
+  "version": "1.0.0",
+  "description": "Todo API project from Andrew Mead's course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul-/Node-Todo-API.git"
+  },
+  "keywords": [
+    "node-js",
+    "todo-api"
+  ],
+  "author": "Vipul Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipul-/Node-Todo-API/issues"
+  },
+  "homepage": "https://github.com/vipul-/Node-Todo-API#readme"
+}
