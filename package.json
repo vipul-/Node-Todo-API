@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vipul-/Node-Todo-API/issues"
   },
-  "homepage": "https://github.com/vipul-/Node-Todo-API#readme"
+  "homepage": "https://github.com/vipul-/Node-Todo-API#readme",
+  "dependencies": {
+    "mongodb": "^3.2.2"
+  }
 }
